@@ -1,2 +1,2 @@
 # best-repo-ever
-trailhead demo repe
+trailhead demo repo
