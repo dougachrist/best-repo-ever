@@ -1,4 +1,4 @@
 # best-repo-ever
 trailhead demo repo
-a new change on branch-1;
+edit from branch 2;
 THE basic edit #1
